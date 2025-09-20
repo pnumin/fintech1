@@ -1,0 +1,5 @@
+{
+  "name": "AI 금융 사전",
+  "description": "최신 금융 용어를 입력하면 AI가 쉽고 명확하게 그 뜻을 설명해주는 금융 사전 애플리케이션입니다.",
+  "requestFramePermissions": []
+}
